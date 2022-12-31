@@ -1,7 +1,6 @@
 # ToDo_App
 
 <img src="https://user-images.githubusercontent.com/97716394/210150260-665add32-fa6d-4ebe-a508-b6d016d03d96.jpg" height=600>
-# SPLASH SCREEN
 <img src=" https://user-images.githubusercontent.com/97716394/210150265-a0771c99-2377-4f09-8726-2d92f25e369a.jpg" height=600>
  
 # SIGNUP SCREEN 
