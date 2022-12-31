@@ -1,5 +1,5 @@
 # ToDo_App
-![TO-DO SPLASH SCREEN](https://user-images.githubusercontent.com/97716394/210150260-665add32-fa6d-4ebe-a508-b6d016d03d96.jpg) 
+![TO-DO SPLASH SCREEN](https://user-images.githubusercontent.com/97716394/210150260-665add32-fa6d-4ebe-a508-b6d016d03d96.jpg | height=200 ) 
 # SPLASH SCREEN
 ![TO DO SIGNUP SCREEN](https://user-images.githubusercontent.com/97716394/210150265-a0771c99-2377-4f09-8726-2d92f25e369a.jpg) 
 # SIGNUP SCREEN 
